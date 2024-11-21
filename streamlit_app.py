@@ -3,6 +3,7 @@ import numpy as np
 import pandas as pd
 import openpyxl
 
+
 # Set page title and layout
 st.set_page_config(page_title='IBC Data Explorer Dashboard', page_icon='📊', layout='wide')
 
